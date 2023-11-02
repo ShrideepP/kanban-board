@@ -1,0 +1,3 @@
+interface Column {
+  name: string;
+}
